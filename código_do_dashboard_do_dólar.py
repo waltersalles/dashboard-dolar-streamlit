@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1w5-TQGrheVUzRrt4M12E8eDgPm75nO7e
 """
 
-!pip install streamlit pandas plotly yfinance
+pip install streamlit pandas plotly yfinance
 
 # dashboard_dolar.py
 
